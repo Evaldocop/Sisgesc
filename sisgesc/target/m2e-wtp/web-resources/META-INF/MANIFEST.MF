@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Evaldo
+Build-Jdk: 1.7.0_80
+Implementation-Title: 
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ettec.com
+Implementation-Vendor: SERPRO - Serviço Federal de Processamento de Da
+ dos
+Created-By: Maven Integration for Eclipse
+
