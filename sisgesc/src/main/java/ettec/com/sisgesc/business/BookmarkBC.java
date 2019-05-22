@@ -13,9 +13,6 @@ public class BookmarkBC extends DelegateCrud<Bookmark, Long, BookmarkDAO> {
 	
 	private static final long serialVersionUID = 1L;
 	
-	
-	
-	
 	@Startup
 	@Transactional
 	public void load() {
