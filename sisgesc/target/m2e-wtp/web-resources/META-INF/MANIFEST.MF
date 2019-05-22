@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Built-By: Desenvolvimento
-Build-Jdk: 10
+Built-By: Evaldo
+Build-Jdk: 1.8.0_162
 Implementation-Title: 
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: ettec.com
